@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Abdul24-code
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me -> just follow me on LinkedIn https://www.linkedin.com/in/abdul-quddus-ansari  
-
 <!---
 Abdul24-code/Abdul24-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,13 +6,14 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ASCII name banner here -->
 <pre>
-    :::     :::::::::  :::::::::  :::    ::: :::              ::::::::  :::    ::: :::::::::  :::::::::  :::    :::  ::::::::  
-  :+: :+:   :+:    :+: :+:    :+: :+:    :+: :+:             :+:    :+: :+:    :+: :+:    :+: :+:    :+: :+:    :+: :+:    :+: 
- +:+   +:+  +:+    +:+ +:+    +:+ +:+    +:+ +:+             +:+    +:+ +:+    +:+ +:+    +:+ +:+    +:+ +:+    +:+ +:+        
-+#++:++#++: +#++:++#+  +#+    +:+ +#+    +:+ +#+             +#+    +:+ +#+    +:+ +#+    +:+ +#+    +:+ +#+    +:+ +#++:++#++ 
-+#+     +#+ +#+    +#+ +#+    +#+ +#+    +#+ +#+             +#+  # +#+ +#+    +#+ +#+    +#+ +#+    +#+ +#+    +#+        +#+ 
-#+#     #+# #+#    #+# #+#    #+# #+#    #+# #+#             #+#   +#+  #+#    #+# #+#    #+# #+#    #+# #+#    #+# #+#    #+# 
-###     ### #########  #########   ########  ##########       ###### ### ########  #########  #########   ########   ########                  
+:::'###::::'########::'########::'##::::'##:'##:::::::::::'#######::'##::::'##:'########::'########::'##::::'##::'######::
+::'## ##::: ##.... ##: ##.... ##: ##:::: ##: ##::::::::::'##.... ##: ##:::: ##: ##.... ##: ##.... ##: ##:::: ##:'##... ##:
+:'##:. ##:: ##:::: ##: ##:::: ##: ##:::: ##: ##:::::::::: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##: ##:::..::
+'##:::. ##: ########:: ##:::: ##: ##:::: ##: ##:::::::::: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##:. ######::
+ #########: ##.... ##: ##:::: ##: ##:::: ##: ##:::::::::: ##:'## ##: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##::..... ##:
+ ##.... ##: ##:::: ##: ##:::: ##: ##:::: ##: ##:::::::::: ##:.. ##:: ##:::: ##: ##:::: ##: ##:::: ##: ##:::: ##:'##::: ##:
+ ##:::: ##: ########:: ########::. #######:: ########::::: ##### ##:. #######:: ########:: ########::. #######::. ######::
+..:::::..::........:::........::::.......:::........::::::.....:..:::.......:::........:::........::::.......::::......:::               
 </pre>
 
 
@@ -29,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Space!;Full+Stack+Developer+%7C+Open+Source+Contributor;AI+Whisperer+🤖+%7C+Cyber+Defender+🛡️" alt="Typing SVG" />
 </p>
 
-![Location](https://img.shields.io/badge/Location-Stockton,%20California-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bokaro,%20Jharkhand-9932cc?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ## 🤝 Let's Link Up & Launch Ideas!
 
